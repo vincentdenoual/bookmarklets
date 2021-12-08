@@ -14,7 +14,7 @@ For users who have subscribed to Le Monde.fr, this script will run on the page o
 
 Link to the Le Monde webpage (click on one of the editions prior running the script): [https://journal.lemonde.fr/](https://journal.lemonde.fr/).
 
-Link to the script: [https://github.com/vincentdenoual/bookmarklets/blob/main/journal.lemonde.fr](https://github.com/vincentdenoual/bookmarklets/blob/main/journal.lemonde.fr).
+Link to the script: [https://github.com/vincentdenoual/bookmarklets/blob/main/journal.lemonde.fr.js](https://github.com/vincentdenoual/bookmarklets/blob/main/journal.lemonde.fr.js).
 
 ### Bureau Veritas
 
@@ -22,4 +22,4 @@ Bureau Veritas allows anyone to search for the certificates they've issued to ce
 
 Link to the Bureau Veritas certificates website (the script will run on the results page): [https://certifie.bureauveritas.fr/](https://certifie.bureauveritas.fr/)
 
-Link to the scripts (original and minified versions): [https://github.com/vincentdenoual/bookmarklets/blob/main/certifie.bureauveritas.fr_resultats.php](https://github.com/vincentdenoual/bookmarklets/blob/main/certifie.bureauveritas.fr_resultats.php)
+Link to the scripts (original and minified versions): [https://github.com/vincentdenoual/bookmarklets/blob/main/certifie.bureauveritas.fr_resultats.php.js](https://github.com/vincentdenoual/bookmarklets/blob/main/certifie.bureauveritas.fr_resultats.php.js)
