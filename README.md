@@ -4,6 +4,8 @@
 
 Source: https://en.wikipedia.org/wiki/Bookmarklet, Accessed Dec 8th, 2021.
 
+Visual example described here: [https://github.com/vincentdenoual/bookmarklets/blob/af51f55b610473d7c125589fbf88aa71c3b15130/Bookmarklet%20visual%20explanation%20-%20Bureau%20Veritas.pdf](https://github.com/vincentdenoual/bookmarklets/blob/af51f55b610473d7c125589fbf88aa71c3b15130/Bookmarklet%20visual%20explanation%20-%20Bureau%20Veritas.pdf)
+
 ## Bookmarklets available
 
 Each bookmarklet is set to run on a specific webpage. I wrote the following bookmarklets.
