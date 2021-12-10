@@ -16,7 +16,7 @@ For users who have subscribed to Le Monde.fr, this script will run on the page o
 
 Link to the Le Monde webpage (click on one of the editions prior running the script): [https://journal.lemonde.fr/](https://journal.lemonde.fr/).
 
-Link to the script: [https://github.com/vincentdenoual/bookmarklets/blob/main/journal.lemonde.fr.js](https://github.com/vincentdenoual/bookmarklets/blob/main/journal.lemonde.fr.js).
+[https://github.com/vincentdenoual/bookmarklets/blob/73a26696418ee3c3b9ef2dd0150b9c198543eaad/Le%20Monde%20(Newspaper)/journal.lemonde.fr.js](Link to the script).
 
 ### Bureau Veritas
 
