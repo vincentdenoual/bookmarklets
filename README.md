@@ -24,4 +24,12 @@ Bureau Veritas allows anyone to search for the certificates they've issued to ce
 
 Link to the Bureau Veritas certificates website (the script will run on the results page): [https://certifie.bureauveritas.fr/](https://certifie.bureauveritas.fr/)
 
-Link to the scripts (original and minified versions): [https://github.com/vincentdenoual/bookmarklets/blob/main/certifie.bureauveritas.fr_resultats.php.js](https://github.com/vincentdenoual/bookmarklets/blob/main/certifie.bureauveritas.fr_resultats.php.js)
+Link to the scripts (original and minified versions): [Link to the script](https://github.com/vincentdenoual/bookmarklets/blob/eb8b32a2864dc4602ec355a0ca7767ea7da52804/certifie.bureauveritas.fr_resultats.php.js)
+
+### Ecocert
+
+Similar to the Bureau Script above, but requiring a user click on each result box in order to display the certificate hyperlink inline (instead of requiring browsing to a different page).
+
+Link to the Ecocert certificates search webpage: [http://certificat.ecocert.com/recherche.php](http://certificat.ecocert.com/recherche.php)
+
+[Link to the script](https://github.com/vincentdenoual/bookmarklets/blob/eb8b32a2864dc4602ec355a0ca7767ea7da52804/certificat.ecocert.com_recherche.php.js)
